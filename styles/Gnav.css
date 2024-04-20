@@ -1,0 +1,16 @@
+/* Gnav.css */
+
+.Gnav {
+    position: absolute;
+    top: 50%;
+    left: 20px; /* Adjust this value to position the gear */
+    transform: translateY(-50%);
+}
+
+.gear {
+    /* Add styles for the gear SVG */
+    /* For example: */
+    stroke: black;
+    stroke-width: 2px;
+    /* You can customize colors, stroke, etc. */
+}
