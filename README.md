@@ -72,6 +72,13 @@ Create a **public-facing “Wall of Fame” website** to showcase and celebrate 
 
 ---
 
+---
+
+📅 **Deadline:** 2 weeks from now 
+
+ 
+📧 **Interested participants & submissions:** wasihetechsolutions@gmail.com
+
 ## 🎤 Final Note  
 
 So fire up your creativity — and let your code take the stage.  
